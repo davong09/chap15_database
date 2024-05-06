@@ -1,0 +1,13 @@
+
+
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(ΤΏν8Ό¬κετ1J$fd49a309-5a8e-4e01-b0e8-17c0c7972164
+‡
+java:S2147'"DCombine this catch with the one at line 37, which has the same body.(Ι®£8«­κετ1J$2198aeca-4bb2-4ef8-916f-86c59020795a
+y
+java:S6437"6Revoke and change this password, as it is compromised.(΅‹©ÿ8¬­κετ1J$33699a0a-3b4e-4b47-b2e0-157de35c891c
+r	java:S106 "+Replace this use of System.out by a logger.(”Ά€όÿÿÿÿ8­­κετ1J$76796013-0200-418e-b258-f9c543b96180
+m	java:S1066"+Replace this use of System.out by a logger.(°«ίί8°­κετ1J$d85a6a50-bd78-475f-97d8-1d64c9a0bf64
+m	java:S106N"+Replace this use of System.out by a logger.(Òο8²­κετ1J$eddc4f06-d91e-4834-abf3-3c4092869847
+r	java:S106g"+Replace this use of System.out by a logger.(λσΕϊÿÿÿÿ8³­κετ1J$879c6d94-b160-4f48-b206-f1c031eacc07
+[
+java:S1128">Remove this unused import 'com.javalab.school.domain.Student'.(―”8Ήϋϊετ1

@@ -1,0 +1,13 @@
+
+‡
+java:S2147"DCombine this catch with the one at line 24, which has the same body.(É®£8ëËåô1J$f64dd663-d8f5-41c2-82b0-1c3e18058946
+y
+java:S6437"6Revoke and change this password, as it is compromised.(¡‹©ÿ8íËåô1J$0f5b4c0e-107d-41d0-84ab-2544a4ae8363
+r	java:S106"+Replace this use of System.out by a logger.(”¢€üÿÿÿÿ8îËåô1J$4b1cbe0c-7285-482c-a45f-3c52614e6ef4
+r
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ñËåô1J$9994ba27-e71b-41cb-887d-7716e2d73e98
+m	java:S106&"+Replace this use of System.out by a logger.(ÚØÈ¦8óËåô1J$2ff65ead-8ddc-481e-9f2e-b14b1ddf54b6
+r	java:S106'"+Replace this use of System.out by a logger.(äÑñıÿÿÿÿ8ôËåô1J$b2c052f5-f870-4aba-9f86-cee24648ccb5
+r	java:S106*"+Replace this use of System.out by a logger.(Äë¾®şÿÿÿÿ8ôËåô1J$84a65033-c616-4483-9f8b-86d2cfcf0563
+r	java:S106,"+Replace this use of System.out by a logger.(Û’…æøÿÿÿÿ8õËåô1J$80f1b2d7-7190-4e42-89a5-fd66ea455cb0
+r	java:S106C"+Replace this use of System.out by a logger.(ŠªÎÁùÿÿÿÿ8öËåô1J$2ffeb93f-8ec8-466d-901e-8a1cb1c105cf

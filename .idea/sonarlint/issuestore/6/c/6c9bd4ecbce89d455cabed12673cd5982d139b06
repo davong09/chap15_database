@@ -1,0 +1,11 @@
+
+a
+java:S2147"DCombine this catch with the one at line 25, which has the same body.(Ι®£8ψªδετ1
+S
+java:S6437"6Revoke and change this password, as it is compromised.(΅‹©ÿ8ϊªδετ1
+L	java:S106"+Replace this use of System.out by a logger.(”Ά€όÿÿÿÿ8ϊªδετ1
+L
+java:S2093"*Change this "try" to a try-with-resources.(΅»Άόωÿÿÿÿ8όªδετ1
+G	java:S106)"+Replace this use of System.out by a logger.(ΘΓί8όªδετ1
+G	java:S1069"+Replace this use of System.out by a logger.(ΦΧΌ•8ύªδετ1
+L	java:S106;"+Replace this use of System.out by a logger.(΄•κ‹ψÿÿÿÿ8ώªδετ1

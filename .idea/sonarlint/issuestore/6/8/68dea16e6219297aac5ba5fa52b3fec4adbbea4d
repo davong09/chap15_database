@@ -1,0 +1,15 @@
+
+‡
+java:S2147"DCombine this catch with the one at line 25, which has the same body.(Ι®£8β²ύετ1J$0e415952-dab4-47c1-a451-ccfee8be6e93
+y
+java:S6437"6Revoke and change this password, as it is compromised.(΅‹©ÿ8γ²ύετ1J$9e93bec0-671e-4d0b-b5b4-893ecbd46c69
+r	java:S106"+Replace this use of System.out by a logger.(”Ά€όÿÿÿÿ8γ²ύετ1J$9211d8b5-ba3e-4306-ae75-2a1784ed854a
+r
+java:S2093"*Change this "try" to a try-with-resources.(΅»Άόωÿÿÿÿ8ε²ύετ1J$1c78b0a4-a3b4-48a9-bce6-86856fa7e12d
+r	java:S106'"+Replace this use of System.out by a logger.(βΏ¬ήψÿÿÿÿ8ζ²ύετ1J$3706d253-b2f2-4265-af6e-5aa57a7dc8ee
+o
+java:S1481("'Remove this unused "id" local variable.(πΝΐΘωÿÿÿÿ8†„ζτ1J$844a58f6-a08e-4869-b544-c91ee4087025
+m	java:S106*"+Replace this use of System.out by a logger.(•­±¶8ζ²ύετ1J$31e6e635-13d1-451a-aabf-d02dc7810c6d
+m	java:S106,"+Replace this use of System.out by a logger.(‰ήΝκ8η²ύετ1J$2eabd379-6a25-48c5-9a32-78294c6fb855
+m	java:S106>"+Replace this use of System.out by a logger.(‡άΤο8ι²ύετ1J$76154358-08d9-49f3-941e-5e80130a3bd3
+m	java:S106@"+Replace this use of System.out by a logger.(πμωά8ι²ύετ1J$37abded8-f492-4be1-b24a-b67b9fbf9ebd
