@@ -1,6 +1,6 @@
 package com.javalab.school.execution;
 
-import com.javalab.school.domain.Student;
+import com.javalab.school.domain.Takes;
 
 import java.sql.*;
 import java.util.ArrayList;
@@ -20,7 +20,7 @@ import java.util.List;
  * 8. 예외 처리 : try-catch-finally 블록을 이용해서 예외 처리
  *
  */
-public class StudentSelect {
+public class TakeSelect {
     // 오라클 DB에 접속해서 하기 위한 정보
     public static void main(String[] args) {
         Connection conn = null;
@@ -30,8 +30,8 @@ public class StudentSelect {
                     "jdbc:oracle:thin:@localhost:1521:orcl", "school", "1234");
             System.out.println("DB 접속 성공");
 
-            // 학생 목록 메소드 호출
-            displayStudents(conn);
+            // 성적 목록 메소드 호출
+            displayTakes(conn);
 
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
@@ -46,15 +46,15 @@ public class StudentSelect {
         }
     } // end of main
 
-    private static void displayStudents(Connection conn) {
-        // 학생 목록 저장용 ArrayList
-        List<Student> studentList = new ArrayList<Student>();
+    private static void displayTakes(Connection conn) {
+        // 성적 목록 저장용 ArrayList
+        List<Takes> TakesList = new ArrayList<Takes>();
 
-        System.out.println("등록된 학생 목록:");
+        System.out.println("등록된 성적 목록:");
         // 쿼리문 작성
-        String sql = "SELECT s.student_id, s.jumin, s.name, s.year, s.address, s.department_id " +
-                "FROM student s " +
-                "ORDER BY s.student_id";
+        String sql = "SELECT t.student_id, t.subject, t.score " +
+                "FROM Takes t " +
+                "ORDER BY t.student_id";
 
         // PreparedStatement 객체 선언
         PreparedStatement pstmt = null ;
@@ -71,15 +71,13 @@ public class StudentSelect {
 
             // while문을 이용해서 ResultSet 객체에 담긴 결과를 하나씩 꺼내서 출력
             while (rs.next()) {
-                String studentId = rs.getString("student_id");
-                String name = rs.getString("name");
-                int year = rs.getInt("year");
-                String address = rs.getString("address");
-                int departmentId = rs.getInt("department_id");
-                System.out.println(studentId + "\t" + name + "\t" + year + "\t" + address + "\t" + departmentId);
+                String studentid = rs.getString("student_id");
+                String subject = rs.getString("subject");
+                String score = rs.getString("score");
+                System.out.println(studentid + "\t" + subject + "\t" + score);
                 // ResultSet 에 있는 행들을 하나씩 학생 객체
-                Student s = new Student(studentId, name, year, address, departmentId);
-                studentList.add(s);
+                Takes d = new Takes(studentid, subject, score);
+                TakesList.add(d);
             }
         } catch (SQLException e) {
             e.printStackTrace();

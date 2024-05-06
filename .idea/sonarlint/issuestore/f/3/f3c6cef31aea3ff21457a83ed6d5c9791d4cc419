@@ -1,0 +1,13 @@
+
+‘	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òÿ¡ˆûÿÿÿÿJ$188c9272-af18-4291-ac6b-df1363fa30d9
+€
+java:S2147"DCombine this catch with the one at line 23, which has the same body.(É®£J$d696f75f-186f-4163-a63d-c091e46e6cc5
+r
+java:S6437"6Revoke and change this password, as it is compromised.(¡‹©ÿJ$21a4552a-0244-4607-ad99-92a6b92c399c
+k	java:S106"+Replace this use of System.out by a logger.(”¢€üÿÿÿÿJ$a24d23d5-9846-4c77-899e-b6ea81ef1dd7
+k
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿJ$3ec83414-9e02-4163-8ddd-41323b1e67da
+k	java:S106%"+Replace this use of System.out by a logger.(°ú÷ßøÿÿÿÿJ$2ab3a685-444c-489f-9d89-2e1a4d165fc3
+f	java:S106'"+Replace this use of System.out by a logger.(™Ïà²J$17793d33-1af2-4c04-94d5-0869a539affa
+k	java:S106)"+Replace this use of System.out by a logger.(¯ÇŠúÿÿÿÿJ$1bc3eeeb-e7f9-46c6-858b-a14cdcde5f28
+e	java:S106@"+Replace this use of System.out by a logger.(‹¾Á(J$95e79cb2-a99a-439f-bdcf-c82df468d0fb

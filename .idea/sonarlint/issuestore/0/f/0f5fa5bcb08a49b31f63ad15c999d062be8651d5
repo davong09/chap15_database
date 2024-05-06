@@ -1,0 +1,17 @@
+
+“	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ»àÛ8ñ‚¸õô1J$e639a0f6-48cf-4540-836c-28ec51194c0a
+‡
+java:S2147"DCombine this catch with the one at line 25, which has the same body.(É®£8‚ƒ¸õô1J$2087d497-108b-4c66-859b-c4a06cebcffe
+y
+java:S6437"6Revoke and change this password, as it is compromised.(¡‹©ÿ8‚ƒ¸õô1J$2c9ac338-3c23-4c06-977d-48a7dcedb32a
+r	java:S106"+Replace this use of System.out by a logger.(”¢€üÿÿÿÿ8ƒƒ¸õô1J$0fe13f8a-c482-4bff-9610-35a0b2e558ce
+r
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8„ƒ¸õô1J$97d4db3d-ec83-4520-aa81-3ac050851229
+r	java:S106'"+Replace this use of System.out by a logger.(Ç¢óÎşÿÿÿÿ8…ƒ¸õô1J$0dd6fb76-565b-4d67-b0a4-586dc2f86d03
+r	java:S106*"+Replace this use of System.out by a logger.(“²Äúÿÿÿÿ8…ƒ¸õô1J$35606b01-1321-451e-b8d0-df40601d6e99
+m	java:S106,"+Replace this use of System.out by a logger.(öïµÒ8…ƒ¸õô1J$8f316496-0c6a-48ee-ad2d-7ae3fa66de6c
+r	java:S106."+Replace this use of System.out by a logger.(äÑñıÿÿÿÿ8…ƒ¸õô1J$f2346494-11ed-46e5-952c-aa9724da0ee3
+m	java:S1061"+Replace this use of System.out by a logger.(ó­Â8†ƒ¸õô1J$08136940-1433-430f-b387-5f750e9c23b0
+m	java:S1063"+Replace this use of System.out by a logger.(Ç±åĞ8†ƒ¸õô1J$59a74147-0d1e-4119-af70-3bd55e11886a
+m	java:S106H"+Replace this use of System.out by a logger.(ºîƒ§8‡ƒ¸õô1J$6a28e41b-1bbe-4da0-a317-587ffdc2cb5c
+m	java:S106J"+Replace this use of System.out by a logger.(³ä×Ù8‡ƒ¸õô1J$fde2dece-aa4b-40fe-9e1e-71e19c1946b9

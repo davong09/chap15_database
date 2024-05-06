@@ -1,0 +1,12 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™×Ì¦ÿÿÿÿÿJ$dafa0a3f-a4b4-4da9-99f6-b5ce736e4aeb
+€
+java:S2147"DCombine this catch with the one at line 25, which has the same body.(É®£J$ffba47cd-5c4a-449c-b1e3-92bdcc700bb1
+r
+java:S6437"6Revoke and change this password, as it is compromised.(¡‹©ÿJ$fd3638b8-25b9-405a-8df4-2cac20e92c68
+k	java:S106"+Replace this use of System.out by a logger.(”¢€üÿÿÿÿJ$f0508e6f-7fe9-4460-9dc5-a5b403858f71
+k
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿJ$d6935d15-cea5-45fe-90aa-417b6fc56788
+k	java:S106)"+Replace this use of System.out by a logger.(“¾ášÿÿÿÿÿJ$40b413f5-5070-4e63-9ee5-eb9207b97eb2
+f	java:S1069"+Replace this use of System.out by a logger.(‚ØùãJ$20b1f957-47fb-48e2-b2dc-cdb9c4a82031
+k	java:S106;"+Replace this use of System.out by a logger.(ãùÛ¯ÿÿÿÿÿJ$09ca4cca-3e44-49c1-80de-dacbb4ef003d

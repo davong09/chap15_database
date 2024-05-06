@@ -1,0 +1,15 @@
+
+š
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ¹úÿÿÿÿJ$ffc2c651-c824-47a2-99c4-a204a6a8794b
+‘	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¹úÿÿÿÿJ$3d454bb0-4349-4744-8dab-13c2bd839cfb
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ù·¥J$eb756fa6-f513-438a-8a97-3a69b8462b93
+€
+java:S2147&"DCombine this catch with the one at line 36, which has the same body.(É®£J$128262f2-d848-44f7-959b-dda48a687ebe
+r
+java:S6437"6Revoke and change this password, as it is compromised.(¡‹©ÿJ$a6d3105d-6150-4d09-b655-266fac37c63b
+k	java:S106"+Replace this use of System.out by a logger.(”¢€üÿÿÿÿJ$22998012-7ba6-47f2-adb9-2ded081095e0
+o
+java:S14813".Remove this unused "TakesList" local variable.(Ğ¹úÿÿÿÿJ$7f1f1ada-ef6c-4c58-b917-10b2258dfbb5
+f	java:S1065"+Replace this use of System.out by a logger.(¦èÍJ$d74d280b-20b2-456a-a535-041dda8dca94
+k	java:S106O"+Replace this use of System.out by a logger.(Ïâÿ¡ùÿÿÿÿJ$e095eb06-6df9-4fd3-9ea6-6d9f6a0c28ca
+k	java:S106h"+Replace this use of System.out by a logger.(ëˆóÅúÿÿÿÿJ$9549c508-e2d3-4aaa-aeaa-381e7a7b6f6f

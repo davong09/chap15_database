@@ -1,15 +1,13 @@
 
 ‡
-java:S2147"DCombine this catch with the one at line 25, which has the same body.(É®£8â²ıåô1J$0e415952-dab4-47c1-a451-ccfee8be6e93
+java:S2147"DCombine this catch with the one at line 25, which has the same body.(É®£8îñàòô1J$f02ee23d-c404-47dd-8b5c-3ce7dc019434
 y
-java:S6437"6Revoke and change this password, as it is compromised.(¡‹©ÿ8ã²ıåô1J$9e93bec0-671e-4d0b-b5b4-893ecbd46c69
-r	java:S106"+Replace this use of System.out by a logger.(”¢€üÿÿÿÿ8ã²ıåô1J$9211d8b5-ba3e-4306-ae75-2a1784ed854a
+java:S6437"6Revoke and change this password, as it is compromised.(¡‹©ÿ8ïñàòô1J$aeb854e3-0d06-415e-994a-089a80a04198
+r	java:S106"+Replace this use of System.out by a logger.(”¢€üÿÿÿÿ8ğñàòô1J$27a36100-ecef-4098-88f4-efbf9d5a6d47
 r
-java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8å²ıåô1J$1c78b0a4-a3b4-48a9-bce6-86856fa7e12d
-r	java:S106'"+Replace this use of System.out by a logger.(â¿¬Şøÿÿÿÿ8æ²ıåô1J$3706d253-b2f2-4265-af6e-5aa57a7dc8ee
-o
-java:S1481("'Remove this unused "id" local variable.(ğÍÀÈùÿÿÿÿ8†„æô1J$844a58f6-a08e-4869-b544-c91ee4087025
-m	java:S106*"+Replace this use of System.out by a logger.(•­±¶8æ²ıåô1J$31e6e635-13d1-451a-aabf-d02dc7810c6d
-m	java:S106,"+Replace this use of System.out by a logger.(‰ŞÍê8ç²ıåô1J$2eabd379-6a25-48c5-9a32-78294c6fb855
-m	java:S106>"+Replace this use of System.out by a logger.(‡ÜÔï8é²ıåô1J$76154358-08d9-49f3-941e-5e80130a3bd3
-m	java:S106@"+Replace this use of System.out by a logger.(ğìùÜ8é²ıåô1J$37abded8-f492-4be1-b24a-b67b9fbf9ebd
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8òñàòô1J$04927668-60a5-4cbc-9e2b-dc3833989a1d
+r	java:S106'"+Replace this use of System.out by a logger.(â¿¬Şøÿÿÿÿ8óñàòô1J$d75d923e-a66b-47b0-99b6-f7e2b8dd9d8c
+m	java:S106+"+Replace this use of System.out by a logger.(•­±¶8õñàòô1J$e62ee9ff-1fb7-460e-b08b-083b93013484
+m	java:S106-"+Replace this use of System.out by a logger.(‰ŞÍê8õñàòô1J$674f24a5-99df-46b5-b0b4-bb1cba95a021
+m	java:S106@"+Replace this use of System.out by a logger.(‡ÜÔï8÷ñàòô1J$358022df-6c16-42b0-80a4-1add31f8636d
+m	java:S106B"+Replace this use of System.out by a logger.(ğìùÜ8÷ñàòô1J$4264c16e-5c5e-4647-a608-8a81b5941c83

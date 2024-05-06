@@ -1,11 +1,0 @@
-
-
-java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ιΈπή8Ό¬κετ1J$26b5420f-fa3f-4635-bb83-fd52f98ad0b7
-‡
-java:S2147&"DCombine this catch with the one at line 36, which has the same body.(Ι®£8«­κετ1J$64548cd5-4538-4f45-9bda-ce14bb0b4746
-y
-java:S6437"6Revoke and change this password, as it is compromised.(΅‹©ÿ8¬­κετ1J$6f4c6785-ecfd-4ae4-9c2f-12a0709d94d1
-r	java:S106"+Replace this use of System.out by a logger.(”Ά€όÿÿÿÿ8­­κετ1J$7e35a9a4-4824-4efe-ae8d-676886f64d67
-m	java:S1065"+Replace this use of System.out by a logger.(ªΌΔƒ8°­κετ1J$c98855fb-d479-439f-b579-cf559132cd05
-m	java:S106O"+Replace this use of System.out by a logger.(τ½Χρ8²­κετ1J$ae140ef5-ae77-48aa-8e79-53368b502e89
-r	java:S106h"+Replace this use of System.out by a logger.(λσΕϊÿÿÿÿ8³­κετ1J$58441664-45d0-43c2-861f-b0b64fcb0a95

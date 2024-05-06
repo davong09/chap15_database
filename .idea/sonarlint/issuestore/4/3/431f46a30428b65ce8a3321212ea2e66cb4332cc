@@ -1,0 +1,21 @@
+
+‘	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÀôÖÿÿÿÿÿJ$52341a36-3722-40be-a6e7-96157b0dd9ac
+‘	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¹‡œùÿÿÿÿJ$fc1f20e8-b7c6-4875-b414-7b1d308c3526
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(š½ÑÂJ$b83ecb39-b351-4573-b317-1cb27c82bbfc
+€
+java:S2147"DCombine this catch with the one at line 25, which has the same body.(É®£J$6cc4e750-0542-48f4-984a-35b9bc084f62
+r
+java:S6437"6Revoke and change this password, as it is compromised.(¡‹©ÿJ$70014cf6-b997-432e-a9bf-ac84168e9708
+k	java:S106"+Replace this use of System.out by a logger.(”¢€üÿÿÿÿJ$ab6b5eb3-f286-4f5a-aa61-5888c16ac5fa
+k
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿJ$2458f5fd-febb-4d4d-a944-cacfc2e8cb80
+e	java:S106'"+Replace this use of System.out by a logger.(ñİ‘:J$6d6a060e-6d50-4ea3-946b-3a4d7c22cf9a
+h
+java:S1481("'Remove this unused "id" local variable.(Çé–ÂøÿÿÿÿJ$af4c7119-1868-4d4f-9475-0e831101257c
+k	java:S106*"+Replace this use of System.out by a logger.(“²ÄúÿÿÿÿJ$dcd6b3d3-eea0-4667-977e-15c10e9adb1a
+f	java:S106,"+Replace this use of System.out by a logger.(ßÇJ$f0e61f25-c837-45a1-8a86-1591c08276b4
+f	java:S106."+Replace this use of System.out by a logger.(öïµÒJ$0ae93deb-2476-4520-96af-245ac5ad8418
+k	java:S1060"+Replace this use of System.out by a logger.(äÑñıÿÿÿÿJ$1cc20f82-1397-4eb0-b902-bf3be598ac0f
+f	java:S1062"+Replace this use of System.out by a logger.(Ö¯ìŠJ$477803c4-5438-426d-9f31-67bc54c70a3f
+k	java:S106F"+Replace this use of System.out by a logger.(üÏÎ³ÿÿÿÿÿJ$77182d73-85f7-4c79-8e95-5421c192fb1e
+k	java:S106H"+Replace this use of System.out by a logger.(¶‰œƒüÿÿÿÿJ$412ab98f-bf46-4ab6-aa6c-86e689459165

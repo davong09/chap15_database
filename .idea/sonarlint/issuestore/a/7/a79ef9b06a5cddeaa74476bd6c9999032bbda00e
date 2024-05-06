@@ -1,0 +1,12 @@
+
+”
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªÄú3J$6a6e237b-4da8-45d4-8b3c-5870f5819a11
+‹	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÄú3J$95ad000a-a9ff-4340-8754-242ae7124324
+€
+java:S2147&"DCombine this catch with the one at line 36, which has the same body.(É®£J$2b77c33f-6296-4e83-a742-66701fc72209
+r
+java:S6437"6Revoke and change this password, as it is compromised.(¡‹©ÿJ$85d5592f-e175-42dd-b0f9-31536283a635
+k	java:S106"+Replace this use of System.out by a logger.(”¢€üÿÿÿÿJ$ae8ffdc5-0929-4b59-82e4-e708e410c55d
+k	java:S1065"+Replace this use of System.out by a logger.(è¿ÉåıÿÿÿÿJ$7e72f02d-619c-433d-8974-d3afda07f176
+k	java:S106M"+Replace this use of System.out by a logger.(óäÈ¹ùÿÿÿÿJ$88ec9d2b-6f0f-49a7-803f-41c41cc4be8a
+k	java:S106f"+Replace this use of System.out by a logger.(ëˆóÅúÿÿÿÿJ$22dcf716-069f-45f2-b3ac-18043e7c85bc

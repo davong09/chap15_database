@@ -5,6 +5,7 @@ package com.javalab.school.domain;
  */
 public class Student {
 	private String studentId;			//학번
+	private String jumin;		// 주민번호
 	private String name; 		//이름
 	private int year;			//학년
 	private String address;		//주소
@@ -22,12 +23,26 @@ public class Student {
 		this.address = address;
 		this.departmentId = departmentId;
 	}
+	public Student(String studentId, String jumin, String name, int year, String address, int departmentId) {
+		this.studentId = studentId;
+		this.jumin = jumin;
+		this.name = name;
+		this.year = year;
+		this.address = address;
+		this.departmentId = departmentId;
+	}
 
 	public String getStudentId() {
 		return studentId;
 	}
 	public void setStudentId(String studentId) {
 		this.studentId = studentId;
+	}
+	public String getJumin() {
+		return jumin;
+	}
+	public void setJumin(String jumin) {
+		this.jumin = jumin;
 	}
 	public String getName() {
 		return name;
