@@ -44,18 +44,19 @@ public class TakeUpdate {
         String subject = scanner.nextLine();
         System.out.println("새 점수: ");
         String score = scanner.nextLine();
+        // 개행 문자 처리
 
         PreparedStatement pstmt = null;
 
         try {
             // SQL 쿼리문 작성
-            String sql = "UPDATE Takes SET student_id = ?, score = ? WHERE student_id = ?";
+            String sql = "UPDATE Takes SET subject = ?, score = ? WHERE student_id = ?";
             pstmt = conn.prepareStatement(sql);
 
             // PreparedStatement에 파라미터 설정
             pstmt.setString(1, subject);
             pstmt.setString(2, score);
-            pstmt.setInt(3, id);
+            pstmt.setInt(3,id);
 
             // SQL 실행
             int rowsUpdated = pstmt.executeUpdate();
