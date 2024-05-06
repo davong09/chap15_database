@@ -8,6 +8,8 @@ import java.util.Scanner;
 
 /**
  * 학생 데이터를 삭제하는 클래스
+ * 복붙 해서 13 25 39 42 46 52 58 60 주석 보고 수정하면 됨!
+ * 나머지도 비슷한 식으로 수정 해야할거 같은 부분은 수정 하면 됨!
  */
 public class StudentDelete { // 클래스 이름 맞추고 ex) 교수면 ProfessorDelete
     // 오라클 DB에 접속해서 하기 위한 정보
